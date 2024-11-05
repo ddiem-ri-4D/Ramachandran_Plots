@@ -10,11 +10,6 @@
 	   by functions here)
 	 - If required, the script could be implemented into existing protein analysis 
 	   pipelines by importing this function ( main() ).
-
-	Author information:
-	 - Joseph I. J. Ellaway
-	 - josephellaway@gmail.com
-	 - https://github.com/Joseph-Ellaway
 	====================================================================================
 """
 
